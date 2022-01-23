@@ -1,3 +1,6 @@
+# Euler Problem 018
+# Solved 24 January 2021
+
 # Maximum path sum I
 
 def compare(row,col):
@@ -37,10 +40,10 @@ for i in range(1,h + 1): #row position
 
 #for i in range(0,h):
 #        print(matrix[1])
-for i in range(1,h+1):
-    for j in range(1,i+1):
-        print(matrix[i,j], end=" ")
-    print("")
+# for i in range(1,h+1):
+#    for j in range(1,i+1):
+#        print(matrix[i,j], end=" ")
+#    print("")
 
 n = w
 for rownum in range(1,n):
