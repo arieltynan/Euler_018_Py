@@ -1,5 +1,4 @@
 # Euler_018_Py
-Euler Problem 018 solved in Python
 
 By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.
 
